@@ -1,6 +1,10 @@
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+build/
 .env
 .env.*
-!.env.example
-__pycache__/
-*.pyc
 .DS_Store
+.tldw/
