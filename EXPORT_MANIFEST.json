@@ -1,7 +1,7 @@
 {
   "automatic_registry_publication": false,
   "canonical_directory": "packages/agent-plugin",
-  "canonical_source_commit": "30a0ffe8a3106d31d46499be768672d90064251f",
+  "canonical_source_commit": "6624f5e934c897619b36e1a0687b12c835b39fa4",
   "canonical_source_snapshot_sha256": "46a4d94587739b4286aa3c16a1a7dc54bc02433b7a179305753d68061db7e3ec",
   "export_files": {
     ".agents/plugins/marketplace.json": "f9ea26360f0f4267fb76fe1f5c08549c4d6669faf5e75b4e31049dc34df06c15",
@@ -12,7 +12,7 @@
     ".cursor-plugin/plugin.json": "cfef80e7834656796b597a729f682d0556a52fff2bd5b5d77c2b2134a2e04524",
     ".gitignore": "427249912cc347340b2cff8e7a6c6daae0077b16be21d8c7306752386c4a0186",
     ".mcp.json": "7c4e61e5a246740fe1acd54460147edcffd9816406f94fc2a78fd4cc19dc8216",
-    "BUILD.json": "d088f95506331acdabe7838e31acc150ece23174976aecfb02c6e61fb336bf50",
+    "BUILD.json": "a4fcb06a63f2453e1a21d4a8c22c68b25234118e00c0cc20f0dd06cd22385873",
     "LICENSE": "66c5c642314847f06544018eb8224259f5eabf17ed2a5c04c4f28e7f1f684821",
     "README.md": "ff3a1ba7a336f1009b3ab458eac6c7996c539b5823fcd862c4ac71c814af092e",
     "assets/icon.png": "8f4955863a47f812e2291b3f31793535285837cdf0599530a96085ecb60c2941",
@@ -46,7 +46,7 @@
     "skills/tldw/references/tools.md": "0a11ca9a997a756b394686f05d68c19498602a017fdc9cf9fbb0728ff02fc578",
     "skills/tldw/references/workflows.md": "a6e22fff0c1072ae354d853ea1099a4385781b7a42a559831e16e9d6ed5614c2"
   },
-  "export_snapshot_sha256": "f185cd8395f011b8124be8791dbeac1d5d8c76ca2976669202d0a6759b20cd36",
+  "export_snapshot_sha256": "d15634a44f296fa82219b08f5557e332e2ca398d310fe13962d22f0fa1004179",
   "name": "tldw-agent-plugin",
   "schema_version": 1,
   "version": "0.9.5"
